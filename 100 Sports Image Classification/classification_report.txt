@@ -1,0 +1,106 @@
+                       precision    recall  f1-score   support
+
+           air hockey       0.83      1.00      0.91         5
+      ampute football       0.62      1.00      0.77         5
+              archery       0.75      0.60      0.67         5
+        arm wrestling       1.00      1.00      1.00         5
+         axe throwing       1.00      0.80      0.89         5
+         balance beam       1.00      1.00      1.00         5
+        barell racing       0.83      1.00      0.91         5
+             baseball       1.00      0.80      0.89         5
+           basketball       0.67      0.80      0.73         5
+       baton twirling       0.67      0.80      0.73         5
+            bike polo       0.67      0.40      0.50         5
+            billiards       1.00      1.00      1.00         5
+                  bmx       0.67      0.80      0.73         5
+              bobsled       1.00      0.60      0.75         5
+              bowling       1.00      0.80      0.89         5
+               boxing       0.71      1.00      0.83         5
+          bull riding       1.00      1.00      1.00         5
+       bungee jumping       0.80      0.80      0.80         5
+         canoe slamon       0.56      1.00      0.71         5
+         cheerleading       1.00      0.80      0.89         5
+    chuckwagon racing       1.00      1.00      1.00         5
+              cricket       1.00      1.00      1.00         5
+              croquet       1.00      1.00      1.00         5
+              curling       1.00      1.00      1.00         5
+            disc golf       1.00      1.00      1.00         5
+              fencing       0.80      0.80      0.80         5
+         field hockey       1.00      1.00      1.00         5
+   figure skating men       1.00      0.80      0.89         5
+ figure skating pairs       0.71      1.00      0.83         5
+ figure skating women       0.83      1.00      0.91         5
+          fly fishing       1.00      1.00      1.00         5
+             football       0.75      0.60      0.67         5
+     formula 1 racing       1.00      1.00      1.00         5
+              frisbee       0.75      0.60      0.67         5
+                 gaga       1.00      1.00      1.00         5
+         giant slalom       0.83      1.00      0.91         5
+                 golf       0.56      1.00      0.71         5
+         hammer throw       1.00      1.00      1.00         5
+         hang gliding       1.00      1.00      1.00         5
+       harness racing       0.83      1.00      0.91         5
+            high jump       0.71      1.00      0.83         5
+               hockey       0.71      1.00      0.83         5
+        horse jumping       1.00      0.80      0.89         5
+         horse racing       1.00      1.00      1.00         5
+   horseshoe pitching       0.33      0.40      0.36         5
+              hurdles       1.00      0.80      0.89         5
+    hydroplane racing       0.80      0.80      0.80         5
+         ice climbing       1.00      1.00      1.00         5
+         ice yachting       0.80      0.80      0.80         5
+             jai alai       0.83      1.00      0.91         5
+              javelin       0.67      0.80      0.73         5
+             jousting       0.71      1.00      0.83         5
+                 judo       1.00      0.80      0.89         5
+             lacrosse       1.00      0.60      0.75         5
+          log rolling       0.83      1.00      0.91         5
+                 luge       1.00      1.00      1.00         5
+    motorcycle racing       0.71      1.00      0.83         5
+              mushing       1.00      1.00      1.00         5
+        nascar racing       1.00      1.00      1.00         5
+    olympic wrestling       1.00      1.00      1.00         5
+         parallel bar       1.00      0.60      0.75         5
+        pole climbing       1.00      0.80      0.89         5
+         pole dancing       0.80      0.80      0.80         5
+           pole vault       0.50      0.60      0.55         5
+                 polo       1.00      1.00      1.00         5
+         pommel horse       0.83      1.00      0.91         5
+                rings       1.00      1.00      1.00         5
+        rock climbing       1.00      1.00      1.00         5
+         roller derby       1.00      0.80      0.89         5
+   rollerblade racing       0.80      0.80      0.80         5
+               rowing       1.00      1.00      1.00         5
+                rugby       0.83      1.00      0.91         5
+      sailboat racing       1.00      1.00      1.00         5
+             shot put       1.00      0.60      0.75         5
+         shuffleboard       1.00      0.80      0.89         5
+       sidecar racing       1.00      0.80      0.89         5
+          ski jumping       1.00      0.80      0.89         5
+          sky surfing       1.00      0.60      0.75         5
+            skydiving       1.00      1.00      1.00         5
+        snow boarding       0.75      0.60      0.67         5
+    snowmobile racing       0.67      0.40      0.50         5
+        speed skating       0.75      0.60      0.67         5
+      steer wrestling       1.00      0.80      0.89         5
+       sumo wrestling       1.00      0.60      0.75         5
+              surfing       1.00      0.80      0.89         5
+             swimming       0.83      1.00      0.91         5
+         table tennis       1.00      1.00      1.00         5
+               tennis       0.75      0.60      0.67         5
+        track bicycle       0.83      1.00      0.91         5
+              trapeze       0.71      1.00      0.83         5
+           tug of war       0.80      0.80      0.80         5
+             ultimate       1.00      0.00      0.00         5
+          uneven bars       1.00      1.00      1.00         5
+           volleyball       0.71      1.00      0.83         5
+        water cycling       1.00      1.00      1.00         5
+           water polo       1.00      1.00      1.00         5
+        weightlifting       0.83      1.00      0.91         5
+wheelchair basketball       1.00      0.80      0.89         5
+    wheelchair racing       1.00      0.40      0.57         5
+      wingsuit flying       0.83      1.00      0.91         5
+
+             accuracy                           0.86       500
+            macro avg       0.88      0.86      0.85       500
+         weighted avg       0.88      0.86      0.85       500
